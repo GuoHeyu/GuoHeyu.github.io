@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heyu Guo"
+title                    : "Heyu Guo's Homepage"
 title_separator          : "-"
 name                     : &name "Heyu Guo"
 description              : &description "Senior undergraduate at Peking University"

@@ -28,6 +28,6 @@ Honors
 **In Peking University**
 - National Scholarship, top 0.1%, Fall 2022
 - Merit Student Pacesetter, top 5%, Fall 2022
-- Wu Si Scholarship, top 0.1%, Fall 2021
+- May 4th Scholarship, top 0.1%, Fall 2021
 - Merit Student Pacesetter, top 5%, Fall 2021
 - Excellence in Study Award, top 20%, Fall 2020

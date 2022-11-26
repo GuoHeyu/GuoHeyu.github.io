@@ -30,7 +30,6 @@ Project name: RFID localization and tracking<br>
 
 Honors
 ======
-**In Peking University**
 - National Scholarship (Ministry of Education, top 0.1% in academic performance), 2022
 - Merit Student Pacesetter (PKU, top 0.1% in comprehensive quality), 2021 & 2022
 - May 4th Scholarship (PKU, top 0.1% in scientific research), 2021

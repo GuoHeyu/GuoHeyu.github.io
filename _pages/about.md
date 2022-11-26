@@ -22,10 +22,10 @@ Experience
 ======
 **University of Illinois at Urbana-Champaign**(September 2022 - December 2022)<br>
 Project name: mmWave radar odometry and mapping
-Research Intern, mentored by Prof.[Deepak Vasisht](https://deepakv.web.illinois.edu/)<br>
+Research Intern, mentored by Prof. [Deepak Vasisht](https://deepakv.web.illinois.edu/)<br>
 **Peking University**(March 2022 - August 2022)<br>
 Project name: RFID localization and tracking
-Research Intern, mentored by Prof.[Chenren Xu](https://soar.group/chenren/)<br>
+Research Intern, mentored by Prof. [Chenren Xu](https://soar.group/chenren/)<br>
 
 Honors
 ======

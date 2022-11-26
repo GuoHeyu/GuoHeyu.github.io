@@ -20,19 +20,17 @@ USENIX NSDI 2023
 
 Experience
 ======
-**Peking University**(March 2022 - August 2022)<br>
-Project name: RFID localization and tracking
-Research Intern, mentored by Prof.[Chenren Xu](https://soar.group/chenren/)<br>
 **University of Illinois at Urbana-Champaign**(September 2022 - December 2022)<br>
 Project name: mmWave radar odometry and mapping
 Research Intern, mentored by Prof.[Deepak Vasisht](https://deepakv.web.illinois.edu/)
-
+**Peking University**(March 2022 - August 2022)<br>
+Project name: RFID localization and tracking
+Research Intern, mentored by Prof.[Chenren Xu](https://soar.group/chenren/)<br>
 
 Honors
 ======
 **In Peking University**
-- National Scholarship, top 0.1%, Fall 2022
-- Merit Student Pacesetter, top 5%, Fall 2022
-- May 4th Scholarship, top 0.1%, Fall 2021
-- Merit Student Pacesetter, top 5%, Fall 2021
-- Excellence in Study Award, top 20%, Fall 2020
+- National Scholarship (Ministry of Education, top 0.1% in academic performance), 2022
+- Merit Student Pacesetter (PKU, top 0.1% in comprehensive quality), 2021 & 2022
+- May 4th Scholarship (PKU, top 0.1% in scientific research), 2021
+- Excellence in Study Award (PKU, top 20% in academic performance), 2020

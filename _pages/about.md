@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student at [Peking University](https://english.pku.edu.cn/) to graduate in July 2023. I am in [the School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/), majoring in EE(IC Design) with a rank of 1/27(Major) and 1/124(Category). 
 
-My research interest lies in wireless communication and the Internet of things(IoT). My detailed CV can be downloaded [here](https://github.com/GuoHeyu/GuoHeyu.github.io/blob/main/files/CV.pdf).
+My research interest lies in wireless communication, Internet of things(IoT) and human computer interaction. My detailed CV can be downloaded [here](https://github.com/GuoHeyu/GuoHeyu.github.io/blob/main/files/CV.pdf).
 
 Publications
 ======
